@@ -1,73 +1,28 @@
-🗂️ Attendance Management System
-A web-based Attendance Management System built using HTML, Tailwind CSS, and PHP. This project is designed to help teachers or admins mark, manage, and review student attendance efficiently.
+# 🗂️ Attendance Management System
 
-👨‍💻 Developed by [Your Name] and [Friend's Name]
+A web-based **Attendance Management System** built using **HTML**, **Tailwind CSS**, and **PHP**. This project helps teachers or admins easily manage and track student attendance online.
 
-🛠️ Tech Stack
-Frontend: HTML5, Tailwind CSS
+> 👨‍💻 Developed by **Kshitij** and **PigheadedPeak16**
 
-Backend: PHP
+---
 
-Database: MySQL
+## 🛠️ Tech Stack
 
-🔑 Core Features
-Student management (Add, Edit, Delete)
+- **Frontend:** HTML5, Tailwind CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
 
-Mark attendance (Present/Absent)
+---
 
-View daily and overall attendance
+## 🔑 Features
 
-Secure admin login system
+- 👨‍🎓 Student Management (Add, Edit, Delete)
+- ✅ Mark Attendance (Present/Absent)
+- 📅 View Attendance by Date
+- 🔐 Admin Login System
+- 📱 Responsive UI with Tailwind CSS
 
-Clean, responsive UI built with Tailwind CSS
+---
 
-📂 Project Structure
-pgsql
-Copy
-Edit
-├── index.html
-├── login.php
-├── dashboard.php
-├── mark_attendance.php
-├── view_attendance.php
-├── config/
-│ └── db.php
-├── assets/
-│ └── styles/
-│ └── tailwind.css
-├── database.sql
-└── README.md
-🚀 Getting Started
-Clone this repository:
+## 📂 Folder Structure
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/attendance-management-system.git
-cd attendance-management-system
-Set up the MySQL database:
-
-Import database.sql into your MySQL server.
-
-Update your DB credentials in config/db.php.
-
-Run the project:
-
-Use XAMPP/WAMP/Laragon to start Apache and MySQL.
-
-Open http://localhost/attendance-management-system in your browser.
-
-🔧 Future Improvements
-Add CSV export of attendance
-
-Monthly attendance summary
-
-Role-based login (Student, Teacher, Admin)
-
-Notification system for absentees
-
-📢 Contributing
-This project is open-source. If you'd like to improve it, feel free to fork and submit a pull request.
-
-📄 License
-This project is licensed under the MIT License.
